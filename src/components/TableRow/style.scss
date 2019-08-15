@@ -1,0 +1,6 @@
+@import "../../utils/constants";
+
+.container {
+    display: flex;
+    width: 25*$row-width;
+}
